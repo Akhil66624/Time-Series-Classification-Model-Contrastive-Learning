@@ -1,1 +1,1 @@
-# Time-Series-Classification-Model-besed-on-Contrastive-Learning
+# Time-Series-Classification-Model-Contrastive-Learning
